@@ -5,7 +5,7 @@
 ### subsub headline
 ## 광명융합기술교육원 로고
 ![광명 폴리텍 로고](https://user-images.githubusercontent.com/100885980/156681488-e8804af6-6070-4cb6-9354-f8d6389872c6.png) <br>
-[ 발표자료 ](/자기소개.pptx) <br>
+[ 발표자료 ](/project.pptx) <br>
 
 #동영상입니다.
 <iframe width="790" height="444" src="https://www.youtube.com/embed/ChM7Fw0QMUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
