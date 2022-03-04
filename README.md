@@ -2,7 +2,6 @@
 ## IT 어린이입니다.
 ### 통합계좌 관리 금융시스템입니다.
 
-### subsub headline
 ## 광명융합기술교육원 로고
 ![광명 폴리텍 로고](https://user-images.githubusercontent.com/100885980/156681488-e8804af6-6070-4cb6-9354-f8d6389872c6.png) <br>
 [ 발표자료 ](/project.pptx) <br>
