@@ -2,7 +2,7 @@
 ## Welcome to GitHub Pages
 ### subsub headline
 
-<img src="imafge.jpg" /> <br>
+<img src="광명 폴리텍 로고.jpg" /> <br>
 [ 발표자료 ](/project.pptx) <br>
 
 #동영상입니다.
