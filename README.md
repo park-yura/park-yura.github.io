@@ -20,7 +20,7 @@
 ### github 사용방법 영상
 <iframe width="500" height="300" src="https://www.youtube.com/embed/M9_uiYHgWwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
-### 과제 sourcetree 사용 동영상
+### sourcetree 사용 동영상
 <iframe width="500" height="300" src="https://www.youtube.com/embed/HwjSvLlF-cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
 ### 관련 링크
