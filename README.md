@@ -8,7 +8,7 @@
 |:---:|:---:|
 |이름|박유라|
 |연락처|yrpr1014@gmail.com|
-|Skill set|Python|
+|Skill set|Python, JAVA|
 |자격증|ADsP, 인공지능 자격증|
 |수상|-|
 |기타|-|
@@ -18,7 +18,12 @@
 [ 자기소개 ](/project.pptx) <br>
 
 ### github 사용방법 영상
-<iframe width="500" height="300" src="https://www.youtube.com/embed/M9_uiYHgWwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500" height="300" src="https://www.youtube.com/embed/M9_uiYHgWwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
+### 과제 sourcetree 사용 동영상
+<iframe width="500" height="300" src="https://www.youtube.com/embed/HwjSvLlF-cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
+### 관련 링크
+[My GitHub Study](https://park-yura.github.io/git_study/)
 
+[My YouTube](https://www.youtube.com/channel/UCKONvJsn1CYFGlaQ75ryEdg/featured)
