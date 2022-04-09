@@ -23,7 +23,10 @@
 ### sourcetree 사용 동영상
 <iframe width="500" height="300" src="https://www.youtube.com/embed/HwjSvLlF-cY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
 
+### Library Project 기능 구현 영상
+
+
 ### 관련 링크
 [My GitHub Study](https://park-yura.github.io/git_study/)
-
+[Libarary Project] (https://park-yura.github.io/libraryProject/)
 [My YouTube](https://www.youtube.com/channel/UCKONvJsn1CYFGlaQ75ryEdg/featured)
