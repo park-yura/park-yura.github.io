@@ -28,5 +28,5 @@
 
 ### 관련 링크
 [My GitHub Study](https://park-yura.github.io/git_study/)
-[Libarary Project] (https://park-yura.github.io/libraryProject/)
+[Libarary Project](https://park-yura.github.io/libraryProject/)
 [My YouTube](https://www.youtube.com/channel/UCKONvJsn1CYFGlaQ75ryEdg/featured)
