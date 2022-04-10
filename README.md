@@ -27,6 +27,6 @@
 <iframe width="500" height="300" src="https://www.youtube.com/embed/A23QIT4h96I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br><br>
 
 ### 관련 링크
-[My GitHub Study](https://park-yura.github.io/git_study/)
-[Libarary Project](https://park-yura.github.io/libraryProject/)
+[My GitHub Study](https://park-yura.github.io/git_study/)<br>
+[Libarary Project](https://park-yura.github.io/libraryProject/)<br>
 [My YouTube](https://www.youtube.com/channel/UCKONvJsn1CYFGlaQ75ryEdg/featured)
