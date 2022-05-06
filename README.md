@@ -29,9 +29,9 @@
 ### Apache와 Tomcat 연동, webserver활용 및 app에 따른 요청 분배
 
 ### Oracle Weblogic 설치 및 App deploy
-
+<iframe width="1062" height="597" src="https://www.youtube.com/embed/zrMCb916ibk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 ### Google Cloud Platform, Apache-Tomcat 연동 후 app deploy
-
+<iframe width="1062" height="597" src="https://www.youtube.com/embed/d2qXA7uTb2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 ### 관련 링크
 [GitHub Study](https://park-yura.github.io/git_study/)<br>
 [Libarary Project](https://park-yura.github.io/libraryProject/)<br>
